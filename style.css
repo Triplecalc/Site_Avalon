@@ -1,0 +1,60 @@
+
+body {
+    background-color: #875F9A;
+    font-size: medium;
+    font-family: Bradley Hand, cursive;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: burlywood;
+    margin-top: 50px;
+    text-align: center;
+    font-family: Bradley Hand, cursive;
+}
+
+
+.op {
+    border: 10px;
+    border-style: outset;
+    border-color: #0095b6;
+    border-radius: 20px;
+    color: blanchedalmond;
+    text-align: center;
+}
+
+linkCP {
+    color: burlywood; 
+    text-decoration: none; 
+    text-align: justify;
+   }
+   linkCP:hover {
+    border-bottom: 1px dashed #A4345D; 
+   }
+
+
+.gradient-button {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+  }
+  .gradient-button:hover {
+    background-position: center;
+  }
+
+  .donateYAMO {
+    text-align: center;
+  }
