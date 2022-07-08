@@ -2,15 +2,15 @@
 body {
     background-color: #875F9A;
     font-size: medium;
-    font-family: Bradley Hand, cursive;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
     color: burlywood;
     margin-top: 50px;
     text-align: center;
-    font-family: Bradley Hand, cursive;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 
